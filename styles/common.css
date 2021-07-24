@@ -1,6 +1,6 @@
 body {
     margin:100px;
-    padding:0px;
+    padding:25px 25px 25px;
 
     background-color: yellow;
 
@@ -10,6 +10,7 @@ body {
 
 p {
     font-size: 30px;
+    text-align: justify;
 }
 
 a {
