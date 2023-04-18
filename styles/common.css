@@ -1,22 +1,23 @@
 body {
-    margin:100px;
-    padding:25px 25px 25px;
-
+    display: block;
     background-color: #e5e5e5;
-
     color:black;
-    font-size: 20px;
 }
 
-p {
+p, h1, h2, img, li, div {
     font-size: 30px;
     text-align: justify;
+    width: 100%;
 }
 
 a {
     font-size: 30px;
 }
 
-img {
-    padding: 25px 25px 25px;
+div {
+    display: inline;
+}
+
+.profile {
+    max-width: 400px;
 }
